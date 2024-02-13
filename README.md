@@ -1,5 +1,5 @@
 ### R 
-R è un linguaggio di programmazione open-source ampiamente utilizzato per l'analisi statistica e la visualizzazione dei dati. È noto per la sua vasta gamma di pacchetti e funzionalità che lo rendono uno strumento potente per esplorare, analizzare e comunicare i dati. In questo README, fornirò una breve panoramica del linguaggio R e alcuni esempi pratici di utilizzo nel mondo del lavoro.
+R è un linguaggio di programmazione open-source ampiamente utilizzato per l'analisi statistica e la visualizzazione dei dati. È noto per la sua vasta gamma di pacchetti e funzionalità che lo rendono uno strumento potente per esplorare, analizzare e comunicare i dati.
 
 - Analisi statistica: R offre una vasta gamma di funzioni e pacchetti per l'analisi statistica, inclusi test statistici, regressione lineare e non lineare, analisi multivariata e molto altro ancora. È ampiamente utilizzato in ambito accademico, di ricerca e industriale per analizzare dati provenienti da diverse fonti.
 
